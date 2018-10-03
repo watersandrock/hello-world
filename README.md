@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+hi everyone
+
+Hubot here,i like node.
